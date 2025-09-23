@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA", "DSA\DSA.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseIntegerArray", "ReverseArray\ReverseIntegerArray.csproj", "{8FA1C0EA-3E25-407D-88DC-5152390FBD68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{BE177FB2-EE99-45E4-8F61-6D9E2A316501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8FA1C0EA-3E25-407D-88DC-5152390FBD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FA1C0EA-3E25-407D-88DC-5152390FBD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FA1C0EA-3E25-407D-88DC-5152390FBD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE177FB2-EE99-45E4-8F61-6D9E2A316501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE177FB2-EE99-45E4-8F61-6D9E2A316501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE177FB2-EE99-45E4-8F61-6D9E2A316501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE177FB2-EE99-45E4-8F61-6D9E2A316501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
