@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA", "DSA\DSA.csproj", "{D75EFF64-CA84-4691-AC88-EDBEB852490D}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseEachwordOfStringSeperately", "ReverseEachwordOfStringSeperately\ReverseEachwordOfStringSeperately.csproj", "{770F0FBD-9884-4F57-B44B-33CEF5273F33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxOfArray", "MinMaxOfArray\MinMaxOfArray.csproj", "{8EE3AF8D-E055-4F35-A0B9-31903924422F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfArray", "SumOfArray\SumOfArray.csproj", "{79BB6521-5E88-4C21-8C7B-0AB880F2387C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8EE3AF8D-E055-4F35-A0B9-31903924422F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EE3AF8D-E055-4F35-A0B9-31903924422F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EE3AF8D-E055-4F35-A0B9-31903924422F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BB6521-5E88-4C21-8C7B-0AB880F2387C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BB6521-5E88-4C21-8C7B-0AB880F2387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BB6521-5E88-4C21-8C7B-0AB880F2387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BB6521-5E88-4C21-8C7B-0AB880F2387C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
